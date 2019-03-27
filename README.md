@@ -29,7 +29,7 @@ In this section, we give guidance on how to use the code to realize automation.
 - Open the folder, all the calculation data is stored here.
 
 ## Reference
-[1] "Precompiled Linux FFmpeg tool", [online] Available at: http://www.ee.ucl.ac.uk/~iandreop/ffmpeg_static_with_VMAF.zip
-[2] Netflix, “Perceptual video quality assessment based on multi-method fusion”, [online] Available at: https://github.com/Netflix/vmaf
-[3] "psnr.cpp tool", [online] Available at: http://www.ee.ucl.ac.uk/~iandreop/psnr_seq.zip
-[4] GitHub, “Bjontegaard_metric”, [online] Available at: https://github.com/Anserw/Bjontegaard_metric
+[1] "Precompiled Linux FFmpeg tool", [online] Available at: http://www.ee.ucl.ac.uk/~iandreop/ffmpeg_static_with_VMAF.zip <br>
+[2] Netflix, “Perceptual video quality assessment based on multi-method fusion”, [online] Available at: https://github.com/Netflix/vmaf<br>
+[3] "psnr.cpp tool", [online] Available at: http://www.ee.ucl.ac.uk/~iandreop/psnr_seq.zip<br>
+[4] GitHub, “Bjontegaard_metric”, [online] Available at: https://github.com/Anserw/Bjontegaard_metric<br>
