@@ -21,8 +21,8 @@ In this section, we give guidance on how to use the code to realize automation.
 - Please download **Performance.py、Bitrate.py and ffmpeg tool** as the first step. Please put all the document including your tested videos under the same path.
 - Run the **Performance.py** and enter details about your tested videos.<br> <img src="Image/question2.png" width="350"> 
 
-- The final results including bitrate savings and graphs are stored in the folder, and you will find another folder.<br><img src="Image/data3.png" width="350"><img src="Image/result4.png" width="350"><img src="Image/result6.png" width="350">
-- Open the folder, all the calculation data is stored here.<br><img src="Image/data2.png" width="350"> 
+- The final results including bitrate savings and graphs are stored in the folder, and you will find another folders.<br><img src="Image/data3.png" width="350"><img src="Image/result4.png" width="350"><img src="Image/result6.png" width="350">
+- Open the VP9 folder for example, all the calculation data is stored here.<br><img src="Image/data2.png" width="350"> 
 
 ## Reference
 [1] "Precompiled Linux FFmpeg tool", [online] Available at: http://www.ee.ucl.ac.uk/~iandreop/ffmpeg_static_with_VMAF.zip <br>
