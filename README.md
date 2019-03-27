@@ -13,7 +13,7 @@ In this section, we give guidance on how to use the code to realize automation.
 ### Codec Parameter Effect Study
 - For the first step, please download **Parameter.py、ffmpeg tool and model folder** as preparation. Please put all the document including your tested videos under the same path.
 - Run the **Parameter.py** and follow the instructions to provide information about your tested codec and video contents. As for the video resolution, please enter format like "1920*1080".
-![](Image/Screenshot from 2019-03-27 19-34-02.png)
+![](Image/X265——crf.png)
 - After enter details about tested codec and video sequences, you will be asked which parameter you would like to test. Please enter your choice with a number.
 
 - The calculation results will be stored in a folder. Open the folder you will find that all the data including PSNR and SSIM results is in the folder and there is another folder to be open.
