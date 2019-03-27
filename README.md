@@ -17,7 +17,7 @@ In this section, we give guidance on how to use the code to realize automation.
 - After enter details about tested codec and video sequences, you will be asked which parameter you would like to test. Please enter your choice with a number.
 <img src="Image/choice1.png" width="500">
 - The calculation results will be stored in a folder. Open the folder you will find that all the data including PSNR and SSIM results is in the folder and there is another folder to be open.
-
+<img src="Image/data1.png" width="500">
 - Open the final folder and the final result and graphs are stored in this folder.
 
 ### Encoder Performance Comparison
@@ -25,9 +25,9 @@ In this section, we give guidance on how to use the code to realize automation.
 - Run the **Performance.py** and enter details about your tested videos. 
 
 - The final results including bitrate savings and graphs are stored in the folder, and you will find another folder.
-
+<img src="Image/data3.png" width="500">
 - Open the folder, all the calculation data is stored here.
-
+<img src="Image/data2.png" width="500">
 ## Reference
 [1] "Precompiled Linux FFmpeg tool", [online] Available at: http://www.ee.ucl.ac.uk/~iandreop/ffmpeg_static_with_VMAF.zip <br>
 [2] Netflix, “Perceptual video quality assessment based on multi-method fusion”, [online] Available at: https://github.com/Netflix/vmaf<br>
