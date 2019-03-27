@@ -12,17 +12,15 @@ This is a project about codec parameter effect study and encoder performance com
 In this section, we give guidance on how to use the code to realize automation.
 ### Codec Parameter Effect Study
 - For the first step, please download **Parameter.py、ffmpeg tool and model folder** as preparation. Please put all the document including your tested videos under the same path.
-- Run the **Parameter.py** and follow the instructions to provide information about your tested codec and video contents. As for the video resolution, please enter format like "1920*1080".
+- Run the **Parameter.py** and follow the instructions to provide information about your tested codec and video contents. As for the video resolution, please enter format like "1920*1080".<img src="Image/question1.png" width="500"> 
 ![](Image/X265_crf.png)
-- After enter details about tested codec and video sequences, you will be asked which parameter you would like to test. Please enter your choice with a number.
-<img src="Image/choice1.png" width="500">
-- The calculation results will be stored in a folder. Open the folder you will find that all the data including PSNR and SSIM results is in the folder and there is another folder to be open.
-<img src="Image/data1.png" width="500">
-- Open the final folder and the final result and graphs are stored in this folder.
+- After enter details about tested codec and video sequences, you will be asked which parameter you would like to test. Please enter your choice with a number.<br><img src="Image/choice1.png" width="500">
+- The calculation results will be stored in a folder. Open the folder you will find that all the data including PSNR and SSIM results is in the folder and there is another folder to be open.<img src="Image/data1.png" width="500">
+- Open the final folder and the final result and graphs are stored in this folder.<img src="Image/result1.png" width="500"><img src="Image/result2.png" width="500">
 
 ### Encoder Performance Comparison
 - Please download **Performance.py、Bitrate.py and ffmpeg tool** as the first step. Please put all the document including your tested videos under the same path.
-- Run the **Performance.py** and enter details about your tested videos. 
+- Run the **Performance.py** and enter details about your tested videos. <img src="Image/question2.png" width="500"> 
 
 - The final results including bitrate savings and graphs are stored in the folder, and you will find another folder.<img src="Image/data3.png" width="500">
 - Open the folder, all the calculation data is stored here.<img src="Image/data2.png" width="500"> 
