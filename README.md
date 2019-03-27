@@ -24,10 +24,9 @@ In this section, we give guidance on how to use the code to realize automation.
 - Please download **Performance.py、Bitrate.py and ffmpeg tool** as the first step. Please put all the document including your tested videos under the same path.
 - Run the **Performance.py** and enter details about your tested videos. 
 
-- The final results including bitrate savings and graphs are stored in the folder, and you will find another folder.
-<img src="Image/data3.png" width="500">
-- Open the folder, all the calculation data is stored here.
-<img src="Image/data2.png" width="500">
+- The final results including bitrate savings and graphs are stored in the folder, and you will find another folder.<img src="Image/data3.png" width="500">
+- Open the folder, all the calculation data is stored here.<img src="Image/data2.png" width="500"> 
+
 ## Reference
 [1] "Precompiled Linux FFmpeg tool", [online] Available at: http://www.ee.ucl.ac.uk/~iandreop/ffmpeg_static_with_VMAF.zip <br>
 [2] Netflix, “Perceptual video quality assessment based on multi-method fusion”, [online] Available at: https://github.com/Netflix/vmaf<br>
