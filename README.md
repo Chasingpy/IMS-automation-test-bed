@@ -10,9 +10,9 @@ This is a project about codec parameter effect study and encoder performance com
 
 ## Instruction
 In this section, we give guidance on how to use the code to realize automation.
-### Codec Parameter effect study
+### Codec Parameter Effect Study
 - For the first step, please download **Parameter.py、ffmpeg tool and model folder** as preparation. Please put all the document including your tested videos under the same path.
-- Run the **Parameter.py** and follow the instructions to provide information about your tested codec and video contents. As for the video resolution, please enter format like "1920*1080"
+- Run the **Parameter.py** and follow the instructions to provide information about your tested codec and video contents. As for the video resolution, please enter format like "1920*1080".
 
 - After enter details about tested codec and video sequences, you will be asked which parameter you would like to test. Please enter your choice with a number.
 
@@ -20,7 +20,7 @@ In this section, we give guidance on how to use the code to realize automation.
 
 - Open the final folder and the final result and graphs are stored in this folder.
 
-### encoder performance comparison
+### Encoder Performance Comparison
 - Please download **Performance.py、Bitrate.py and ffmpeg tool** as the first step. Please put all the document including your tested videos under the same path.
 - Run the **Performance.py** and enter details about your tested videos. 
 
