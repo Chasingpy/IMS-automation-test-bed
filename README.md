@@ -15,7 +15,7 @@ In this section, we give guidance on how to use the code to realize automation.
 - Run the **Parameter.py** and follow the instructions to provide information about your tested codec and video contents. As for the video resolution, please enter format like "1920*1080".
 ![](Image/X265_crf.png)
 - After enter details about tested codec and video sequences, you will be asked which parameter you would like to test. Please enter your choice with a number.
-
+<img src="Image/choice1.png" width="500">
 - The calculation results will be stored in a folder. Open the folder you will find that all the data including PSNR and SSIM results is in the folder and there is another folder to be open.
 
 - Open the final folder and the final result and graphs are stored in this folder.
