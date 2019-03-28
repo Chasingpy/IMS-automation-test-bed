@@ -4,7 +4,7 @@
 This is a project about codec parameter effect study and encoder performance comparison. For the first part of the project, the code is provided to complete the whole process of encoding, decoding, measurement, collecting data and plotting. In the second part of the project about encoder performance comparison, the script can be used to calculate the bitrate savings among H.264, HEVC and VP9 encoders and collect the data automatically in a csv file. Specific instructions are provided below.
 
 ## Tool Used
-- The ffmpeg tool is used to encode several video sequences with tested codecs and impletement PSNR,SSIM and VMAF measurement. For the VMAF score measurement, the precompiled Linux FFmpeg tool [1] [2] is used here.
+- The ffmpeg tool [1] is used to encode several video sequences with tested codecs and impletement PSNR,SSIM and VMAF measurement. For the VMAF score measurement, the precompiled Linux FFmpeg tool [1] [2] is used here.
 - In order to examine the accuracy of the PSNR measurement by ffmpeg tool, the psnr.cpp tool [3] is applied.
 - In the second task of encoder performance comparison, we use the BD-BR calculation tool [4] which is used as **Bitrate.py** in the project.
 
