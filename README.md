@@ -1,4 +1,4 @@
-# Liyan-Zhu-IMS-automation-testbed
+# IMS-automation-testbed
 
 ## Description
 This is a project about codec parameter effect study and encoder performance comparison. For the first part of the project, the code is provided to complete the whole process of encoding, decoding, measurement, collecting data and plotting. In the second part of the project about encoder performance comparison, the script can be used to calculate the bitrate savings among H.264, HEVC and VP9 encoders and collect the data automatically in a csv file. Specific instructions are provided below.
